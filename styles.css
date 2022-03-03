@@ -1,1 +1,60 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    padding-right: 200px;
+    padding-left: 210px;
+    background-color: WhiteSmoke;
+    background-clip: context-box;
+    box-shadow: inset 0 0 0 57px DarkSeaGreen
+    }
+    
+    #music{
+    font-size: 15px;
+    padding-bottom: 5px;
+    padding-topL 5px;
+    text-align: center;
+    }
+    
+    p{
+    padding-bottom: 10px;
+    font-family: Georgia, serif;
+    }
+    
+    h1{
+    text-align: center;
+    padding-top: 13px;
+    font-family: Courier New, monospace;
+    overflow: hidden;
+    border-right: .15em solid orange; 
+    white-space: nowrap; 
+    margin: 0 auto; 
+    letter-spacing: .15em; 
+    animation: 
+    typing 3.5s steps(50),
+    blink-caret .75s step-end infinite;
+    }
+    
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+    
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: orange; }
+    }
+    
+    
+    .funParagraph{
+    color: green;
+    }
+    
+    h2{
+    font-family: Jazz LET, fantasy
+    padding-top: 10px;
+    } 
+    
+    .img{
+    border-radius: 20px;
+    padding-top: 20px;
+    }/* Write your CSS here! */
