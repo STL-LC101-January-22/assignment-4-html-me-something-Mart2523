@@ -56,7 +56,11 @@ body {
     padding-top: 10px;
     } 
     
+    #foot{
+        font-size: 12px;
+    }
+
     .img{
     border-radius: 20px;
     padding-top: 20px;
-    }/* Write your CSS here! */
+    }
