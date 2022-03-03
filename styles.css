@@ -44,7 +44,9 @@ body {
       50% { border-color: orange; }
     }
     
-    
+    #mainHeading{
+        color: red;
+    }
     .funParagraph{
     color: green;
     }
